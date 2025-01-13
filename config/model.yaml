@@ -1,0 +1,19 @@
+data:
+  start_date: '2024-12-01'
+  end_date: '2025-01-01'
+  currencies: ['USD']
+
+data_prep:
+  seq_len: 20
+
+model:
+  path_to_last_model: 'src/model/rnn_model.pth'
+  name: 'rnn_model'
+  input_size: 1
+  hidden_layer_size: 256
+  num_layers: 2
+  output_size: 1
+
+train:
+  lr: 0.0005
+  num_epoch: 1000

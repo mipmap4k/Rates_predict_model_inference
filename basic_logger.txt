@@ -1,0 +1,165 @@
+basic_logger:main: 25-01-13 17:18:10 INFO Запуск приложения
+basic_logger:main: 25-01-13 17:18:10 DEBUG Текущий рабочий каталог: C:\Users\User\source\repos\AI_4
+basic_logger:main: 25-01-13 17:18:10 INFO Конфигурационный файл успешно загружен по пути: C:\Users\User\source\repos\AI_4\config/model.yaml
+basic_logger:main: 25-01-13 17:18:10 INFO Старые данные отсутствуют. Начинаем загрузку с начальной даты
+basic_logger:dataLoad: 25-01-13 17:18:10 INFO start data load for 2024-12-01 and 2025-01-13
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:10 DEBUG Starting new HTTPS connection (1): www.cbr.ru:443
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:10 DEBUG https://www.cbr.ru:443 "GET /scripts/XML_daily.asp?date_req=01/12/2024 HTTP/1.1" 200 1904
+basic_logger:dataLoad: 25-01-13 17:18:10 INFO Successfully load data for 2024-12-01 00:00:00 response_code = 200
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:10 DEBUG Starting new HTTPS connection (1): www.cbr.ru:443
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:11 DEBUG https://www.cbr.ru:443 "GET /scripts/XML_daily.asp?date_req=02/12/2024 HTTP/1.1" 200 1904
+basic_logger:dataLoad: 25-01-13 17:18:11 INFO Successfully load data for 2024-12-02 00:00:00 response_code = 200
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:11 DEBUG Starting new HTTPS connection (1): www.cbr.ru:443
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:11 DEBUG https://www.cbr.ru:443 "GET /scripts/XML_daily.asp?date_req=03/12/2024 HTTP/1.1" 200 1907
+basic_logger:dataLoad: 25-01-13 17:18:11 INFO Successfully load data for 2024-12-03 00:00:00 response_code = 200
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:11 DEBUG Starting new HTTPS connection (1): www.cbr.ru:443
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:12 DEBUG https://www.cbr.ru:443 "GET /scripts/XML_daily.asp?date_req=04/12/2024 HTTP/1.1" 200 1912
+basic_logger:dataLoad: 25-01-13 17:18:12 INFO Successfully load data for 2024-12-04 00:00:00 response_code = 200
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:12 DEBUG Starting new HTTPS connection (1): www.cbr.ru:443
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:12 DEBUG https://www.cbr.ru:443 "GET /scripts/XML_daily.asp?date_req=05/12/2024 HTTP/1.1" 200 1917
+basic_logger:dataLoad: 25-01-13 17:18:12 INFO Successfully load data for 2024-12-05 00:00:00 response_code = 200
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:12 DEBUG Starting new HTTPS connection (1): www.cbr.ru:443
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:13 DEBUG https://www.cbr.ru:443 "GET /scripts/XML_daily.asp?date_req=06/12/2024 HTTP/1.1" 200 1927
+basic_logger:dataLoad: 25-01-13 17:18:13 INFO Successfully load data for 2024-12-06 00:00:00 response_code = 200
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:13 DEBUG Starting new HTTPS connection (1): www.cbr.ru:443
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:14 DEBUG https://www.cbr.ru:443 "GET /scripts/XML_daily.asp?date_req=07/12/2024 HTTP/1.1" 200 1982
+basic_logger:dataLoad: 25-01-13 17:18:14 INFO Successfully load data for 2024-12-07 00:00:00 response_code = 200
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:14 DEBUG Starting new HTTPS connection (1): www.cbr.ru:443
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:14 DEBUG https://www.cbr.ru:443 "GET /scripts/XML_daily.asp?date_req=08/12/2024 HTTP/1.1" 200 1982
+basic_logger:dataLoad: 25-01-13 17:18:14 INFO Successfully load data for 2024-12-08 00:00:00 response_code = 200
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:14 DEBUG Starting new HTTPS connection (1): www.cbr.ru:443
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:15 DEBUG https://www.cbr.ru:443 "GET /scripts/XML_daily.asp?date_req=09/12/2024 HTTP/1.1" 200 1982
+basic_logger:dataLoad: 25-01-13 17:18:15 INFO Successfully load data for 2024-12-09 00:00:00 response_code = 200
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:15 DEBUG Starting new HTTPS connection (1): www.cbr.ru:443
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:15 DEBUG https://www.cbr.ru:443 "GET /scripts/XML_daily.asp?date_req=10/12/2024 HTTP/1.1" 200 1917
+basic_logger:dataLoad: 25-01-13 17:18:15 INFO Successfully load data for 2024-12-10 00:00:00 response_code = 200
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:15 DEBUG Starting new HTTPS connection (1): www.cbr.ru:443
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:16 DEBUG https://www.cbr.ru:443 "GET /scripts/XML_daily.asp?date_req=11/12/2024 HTTP/1.1" 200 1910
+basic_logger:dataLoad: 25-01-13 17:18:16 INFO Successfully load data for 2024-12-11 00:00:00 response_code = 200
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:16 DEBUG Starting new HTTPS connection (1): www.cbr.ru:443
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:16 DEBUG https://www.cbr.ru:443 "GET /scripts/XML_daily.asp?date_req=12/12/2024 HTTP/1.1" 200 1928
+basic_logger:dataLoad: 25-01-13 17:18:16 INFO Successfully load data for 2024-12-12 00:00:00 response_code = 200
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:16 DEBUG Starting new HTTPS connection (1): www.cbr.ru:443
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:17 DEBUG https://www.cbr.ru:443 "GET /scripts/XML_daily.asp?date_req=13/12/2024 HTTP/1.1" 200 1925
+basic_logger:dataLoad: 25-01-13 17:18:17 INFO Successfully load data for 2024-12-13 00:00:00 response_code = 200
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:17 DEBUG Starting new HTTPS connection (1): www.cbr.ru:443
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:17 DEBUG https://www.cbr.ru:443 "GET /scripts/XML_daily.asp?date_req=14/12/2024 HTTP/1.1" 200 1929
+basic_logger:dataLoad: 25-01-13 17:18:17 INFO Successfully load data for 2024-12-14 00:00:00 response_code = 200
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:17 DEBUG Starting new HTTPS connection (1): www.cbr.ru:443
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:18 DEBUG https://www.cbr.ru:443 "GET /scripts/XML_daily.asp?date_req=15/12/2024 HTTP/1.1" 200 1929
+basic_logger:dataLoad: 25-01-13 17:18:18 INFO Successfully load data for 2024-12-15 00:00:00 response_code = 200
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:18 DEBUG Starting new HTTPS connection (1): www.cbr.ru:443
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:18 DEBUG https://www.cbr.ru:443 "GET /scripts/XML_daily.asp?date_req=16/12/2024 HTTP/1.1" 200 1929
+basic_logger:dataLoad: 25-01-13 17:18:18 INFO Successfully load data for 2024-12-16 00:00:00 response_code = 200
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:18 DEBUG Starting new HTTPS connection (1): www.cbr.ru:443
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:19 DEBUG https://www.cbr.ru:443 "GET /scripts/XML_daily.asp?date_req=17/12/2024 HTTP/1.1" 200 1937
+basic_logger:dataLoad: 25-01-13 17:18:19 INFO Successfully load data for 2024-12-17 00:00:00 response_code = 200
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:19 DEBUG Starting new HTTPS connection (1): www.cbr.ru:443
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:19 DEBUG https://www.cbr.ru:443 "GET /scripts/XML_daily.asp?date_req=18/12/2024 HTTP/1.1" 200 1913
+basic_logger:dataLoad: 25-01-13 17:18:19 INFO Successfully load data for 2024-12-18 00:00:00 response_code = 200
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:19 DEBUG Starting new HTTPS connection (1): www.cbr.ru:443
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:20 DEBUG https://www.cbr.ru:443 "GET /scripts/XML_daily.asp?date_req=19/12/2024 HTTP/1.1" 200 1931
+basic_logger:dataLoad: 25-01-13 17:18:20 INFO Successfully load data for 2024-12-19 00:00:00 response_code = 200
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:20 DEBUG Starting new HTTPS connection (1): www.cbr.ru:443
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:20 DEBUG https://www.cbr.ru:443 "GET /scripts/XML_daily.asp?date_req=20/12/2024 HTTP/1.1" 200 1909
+basic_logger:dataLoad: 25-01-13 17:18:20 INFO Successfully load data for 2024-12-20 00:00:00 response_code = 200
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:20 DEBUG Starting new HTTPS connection (1): www.cbr.ru:443
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:21 DEBUG https://www.cbr.ru:443 "GET /scripts/XML_daily.asp?date_req=21/12/2024 HTTP/1.1" 200 1941
+basic_logger:dataLoad: 25-01-13 17:18:21 INFO Successfully load data for 2024-12-21 00:00:00 response_code = 200
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:21 DEBUG Starting new HTTPS connection (1): www.cbr.ru:443
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:22 DEBUG https://www.cbr.ru:443 "GET /scripts/XML_daily.asp?date_req=22/12/2024 HTTP/1.1" 200 1941
+basic_logger:dataLoad: 25-01-13 17:18:22 INFO Successfully load data for 2024-12-22 00:00:00 response_code = 200
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:22 DEBUG Starting new HTTPS connection (1): www.cbr.ru:443
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:22 DEBUG https://www.cbr.ru:443 "GET /scripts/XML_daily.asp?date_req=23/12/2024 HTTP/1.1" 200 1941
+basic_logger:dataLoad: 25-01-13 17:18:22 INFO Successfully load data for 2024-12-23 00:00:00 response_code = 200
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:22 DEBUG Starting new HTTPS connection (1): www.cbr.ru:443
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:22 DEBUG https://www.cbr.ru:443 "GET /scripts/XML_daily.asp?date_req=24/12/2024 HTTP/1.1" 200 1914
+basic_logger:dataLoad: 25-01-13 17:18:22 INFO Successfully load data for 2024-12-24 00:00:00 response_code = 200
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:22 DEBUG Starting new HTTPS connection (1): www.cbr.ru:443
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:23 DEBUG https://www.cbr.ru:443 "GET /scripts/XML_daily.asp?date_req=25/12/2024 HTTP/1.1" 200 1927
+basic_logger:dataLoad: 25-01-13 17:18:23 INFO Successfully load data for 2024-12-25 00:00:00 response_code = 200
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:23 DEBUG Starting new HTTPS connection (1): www.cbr.ru:443
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:24 DEBUG https://www.cbr.ru:443 "GET /scripts/XML_daily.asp?date_req=26/12/2024 HTTP/1.1" 200 1942
+basic_logger:dataLoad: 25-01-13 17:18:24 INFO Successfully load data for 2024-12-26 00:00:00 response_code = 200
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:24 DEBUG Starting new HTTPS connection (1): www.cbr.ru:443
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:24 DEBUG https://www.cbr.ru:443 "GET /scripts/XML_daily.asp?date_req=27/12/2024 HTTP/1.1" 200 1941
+basic_logger:dataLoad: 25-01-13 17:18:24 INFO Successfully load data for 2024-12-27 00:00:00 response_code = 200
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:24 DEBUG Starting new HTTPS connection (1): www.cbr.ru:443
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:25 DEBUG https://www.cbr.ru:443 "GET /scripts/XML_daily.asp?date_req=28/12/2024 HTTP/1.1" 200 1946
+basic_logger:dataLoad: 25-01-13 17:18:25 INFO Successfully load data for 2024-12-28 00:00:00 response_code = 200
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:25 DEBUG Starting new HTTPS connection (1): www.cbr.ru:443
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:25 DEBUG https://www.cbr.ru:443 "GET /scripts/XML_daily.asp?date_req=29/12/2024 HTTP/1.1" 200 1928
+basic_logger:dataLoad: 25-01-13 17:18:25 INFO Successfully load data for 2024-12-29 00:00:00 response_code = 200
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:25 DEBUG Starting new HTTPS connection (1): www.cbr.ru:443
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:26 DEBUG https://www.cbr.ru:443 "GET /scripts/XML_daily.asp?date_req=30/12/2024 HTTP/1.1" 200 1928
+basic_logger:dataLoad: 25-01-13 17:18:26 INFO Successfully load data for 2024-12-30 00:00:00 response_code = 200
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:26 DEBUG Starting new HTTPS connection (1): www.cbr.ru:443
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:26 DEBUG https://www.cbr.ru:443 "GET /scripts/XML_daily.asp?date_req=31/12/2024 HTTP/1.1" 200 1928
+basic_logger:dataLoad: 25-01-13 17:18:26 INFO Successfully load data for 2024-12-31 00:00:00 response_code = 200
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:26 DEBUG Starting new HTTPS connection (1): www.cbr.ru:443
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:27 DEBUG https://www.cbr.ru:443 "GET /scripts/XML_daily.asp?date_req=01/01/2025 HTTP/1.1" 200 1928
+basic_logger:dataLoad: 25-01-13 17:18:27 INFO Successfully load data for 2025-01-01 00:00:00 response_code = 200
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:27 DEBUG Starting new HTTPS connection (1): www.cbr.ru:443
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:27 DEBUG https://www.cbr.ru:443 "GET /scripts/XML_daily.asp?date_req=02/01/2025 HTTP/1.1" 200 1928
+basic_logger:dataLoad: 25-01-13 17:18:27 INFO Successfully load data for 2025-01-02 00:00:00 response_code = 200
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:27 DEBUG Starting new HTTPS connection (1): www.cbr.ru:443
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:28 DEBUG https://www.cbr.ru:443 "GET /scripts/XML_daily.asp?date_req=03/01/2025 HTTP/1.1" 200 1928
+basic_logger:dataLoad: 25-01-13 17:18:28 INFO Successfully load data for 2025-01-03 00:00:00 response_code = 200
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:28 DEBUG Starting new HTTPS connection (1): www.cbr.ru:443
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:28 DEBUG https://www.cbr.ru:443 "GET /scripts/XML_daily.asp?date_req=04/01/2025 HTTP/1.1" 200 1928
+basic_logger:dataLoad: 25-01-13 17:18:28 INFO Successfully load data for 2025-01-04 00:00:00 response_code = 200
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:28 DEBUG Starting new HTTPS connection (1): www.cbr.ru:443
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:29 DEBUG https://www.cbr.ru:443 "GET /scripts/XML_daily.asp?date_req=05/01/2025 HTTP/1.1" 200 1928
+basic_logger:dataLoad: 25-01-13 17:18:29 INFO Successfully load data for 2025-01-05 00:00:00 response_code = 200
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:29 DEBUG Starting new HTTPS connection (1): www.cbr.ru:443
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:29 DEBUG https://www.cbr.ru:443 "GET /scripts/XML_daily.asp?date_req=06/01/2025 HTTP/1.1" 200 1928
+basic_logger:dataLoad: 25-01-13 17:18:29 INFO Successfully load data for 2025-01-06 00:00:00 response_code = 200
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:29 DEBUG Starting new HTTPS connection (1): www.cbr.ru:443
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:30 DEBUG https://www.cbr.ru:443 "GET /scripts/XML_daily.asp?date_req=07/01/2025 HTTP/1.1" 200 1928
+basic_logger:dataLoad: 25-01-13 17:18:30 INFO Successfully load data for 2025-01-07 00:00:00 response_code = 200
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:30 DEBUG Starting new HTTPS connection (1): www.cbr.ru:443
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:31 DEBUG https://www.cbr.ru:443 "GET /scripts/XML_daily.asp?date_req=08/01/2025 HTTP/1.1" 200 1928
+basic_logger:dataLoad: 25-01-13 17:18:31 INFO Successfully load data for 2025-01-08 00:00:00 response_code = 200
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:31 DEBUG Starting new HTTPS connection (1): www.cbr.ru:443
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:31 DEBUG https://www.cbr.ru:443 "GET /scripts/XML_daily.asp?date_req=09/01/2025 HTTP/1.1" 200 1928
+basic_logger:dataLoad: 25-01-13 17:18:31 INFO Successfully load data for 2025-01-09 00:00:00 response_code = 200
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:31 DEBUG Starting new HTTPS connection (1): www.cbr.ru:443
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:32 DEBUG https://www.cbr.ru:443 "GET /scripts/XML_daily.asp?date_req=10/01/2025 HTTP/1.1" 200 1933
+basic_logger:dataLoad: 25-01-13 17:18:32 INFO Successfully load data for 2025-01-10 00:00:00 response_code = 200
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:32 DEBUG Starting new HTTPS connection (1): www.cbr.ru:443
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:32 DEBUG https://www.cbr.ru:443 "GET /scripts/XML_daily.asp?date_req=11/01/2025 HTTP/1.1" 200 1917
+basic_logger:dataLoad: 25-01-13 17:18:32 INFO Successfully load data for 2025-01-11 00:00:00 response_code = 200
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:32 DEBUG Starting new HTTPS connection (1): www.cbr.ru:443
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:33 DEBUG https://www.cbr.ru:443 "GET /scripts/XML_daily.asp?date_req=12/01/2025 HTTP/1.1" 200 1917
+basic_logger:dataLoad: 25-01-13 17:18:33 INFO Successfully load data for 2025-01-12 00:00:00 response_code = 200
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:33 DEBUG Starting new HTTPS connection (1): www.cbr.ru:443
+urllib3.connectionpool:connectionpool: 25-01-13 17:18:33 DEBUG https://www.cbr.ru:443 "GET /scripts/XML_daily.asp?date_req=13/01/2025 HTTP/1.1" 200 1917
+basic_logger:dataLoad: 25-01-13 17:18:33 INFO Successfully load data for 2025-01-13 00:00:00 response_code = 200
+basic_logger:dataLoad: 25-01-13 17:18:33 INFO Successfully  data load
+basic_logger:main: 25-01-13 17:18:33 INFO Данные успешно добавлены в файл: C:\Users\User\source\repos\AI_4\src\data\data_2025-01-13.csv
+basic_logger:main: 25-01-13 17:18:33 INFO Модели отсутствуют, начинаем процесс обучения
+basic_logger:training: 25-01-13 17:18:36 INFO Epoch [100/1000], Loss: 0.0084
+basic_logger:training: 25-01-13 17:18:38 INFO Epoch [200/1000], Loss: 0.0009
+basic_logger:training: 25-01-13 17:18:40 INFO Epoch [300/1000], Loss: 0.0003
+basic_logger:training: 25-01-13 17:18:42 INFO Epoch [400/1000], Loss: 0.0003
+basic_logger:training: 25-01-13 17:18:44 INFO Epoch [500/1000], Loss: 0.0002
+basic_logger:training: 25-01-13 17:18:46 INFO Epoch [600/1000], Loss: 0.0002
+basic_logger:training: 25-01-13 17:18:48 INFO Epoch [700/1000], Loss: 0.0002
+basic_logger:training: 25-01-13 17:18:50 INFO Epoch [800/1000], Loss: 0.0002
+basic_logger:training: 25-01-13 17:18:52 INFO Epoch [900/1000], Loss: 0.0003
+basic_logger:training: 25-01-13 17:18:54 INFO Epoch [1000/1000], Loss: 0.0001
+basic_logger:training: 25-01-13 17:18:54 INFO Model saved to src\model\rnn_model.pth
+basic_logger:training: 25-01-13 17:18:54 INFO Предсказание модели: [102.325096 102.29021  102.26889  101.63782   99.84881 ]
+basic_logger:main: 25-01-13 17:19:06 INFO Запуск приложения
+basic_logger:main: 25-01-13 17:19:06 DEBUG Текущий рабочий каталог: C:\Users\User\source\repos\AI_4
+basic_logger:main: 25-01-13 17:19:06 INFO Конфигурационный файл успешно загружен по пути: C:\Users\User\source\repos\AI_4\config/model.yaml
+basic_logger:main: 25-01-13 17:19:06 INFO Старые данные существуют. Последняя дата: 2025-01-13
+basic_logger:dataLoad: 25-01-13 17:19:06 INFO start data load for 2025-01-13 and 2025-01-13
+urllib3.connectionpool:connectionpool: 25-01-13 17:19:06 DEBUG Starting new HTTPS connection (1): www.cbr.ru:443
+urllib3.connectionpool:connectionpool: 25-01-13 17:19:07 DEBUG https://www.cbr.ru:443 "GET /scripts/XML_daily.asp?date_req=13/01/2025 HTTP/1.1" 200 1917
+basic_logger:dataLoad: 25-01-13 17:19:07 INFO Successfully load data for 2025-01-13 00:00:00 response_code = 200
+basic_logger:dataLoad: 25-01-13 17:19:07 INFO Successfully  data load
+basic_logger:main: 25-01-13 17:19:07 INFO Данные актуальны. Новые строки не добавлены
+basic_logger:main: 25-01-13 17:19:07 INFO Загружаем модель: C:\Users\User\source\repos\AI_4\src\model\rnn_model.pth
+basic_logger:main: 25-01-13 17:19:07 INFO Предсказанное значение курса: 3.178175449371338
+basic_logger:main: 25-01-13 17:19:07 INFO Предсказание добавлено в файл: C:\Users\User\source\repos\AI_4\src\data\data_2025-01-13.csv
